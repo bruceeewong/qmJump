@@ -1,0 +1,12 @@
+currentScore
+
+order=15 glow
+
+order=19 音乐盒 +30
+
+order=24 商店store +15
+
+order=26 井盖 +5
+
+order=17 魔方 +10
+
